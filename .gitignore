@@ -1,0 +1,5 @@
+.idea
+data/words
+data/words.txt
+venv
+__pycache__/
